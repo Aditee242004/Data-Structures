@@ -1,2 +1,3 @@
 # Data-Structures
 Here are some Programs that I have implemented for Calculating and Checking the Time and Space Complexity.So By implementing these programs I can learn about the data structures very well... 
+Some Functions like push(),pop(),isEmpty(),etc. is implemented in this programs.
